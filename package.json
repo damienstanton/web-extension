@@ -1,7 +1,7 @@
 {
-	"name": "web-extension-starter",
-	"version": "1.0.0",
-	"description": "A web browser extension starter - based on Typescript, React, Redux, Styled-Component, Webpack, and more. Runs on Chrome and Firefox.",
+	"name": "web-extension",
+	"version": "1.1.0",
+	"description": "web extension starter",
 	"main": "index.js",
 	"scripts": {
 		"dev": "cross-env NODE_ENV=development webpack -d",
@@ -48,6 +48,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/ymdevs/Web-Extension-Starter.git"
+		"url": "git://github.com/damienstanton/web-extension.git"
 	}
 }
